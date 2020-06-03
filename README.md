@@ -1,6 +1,6 @@
 # Github-information
 
-###Termux Install
+### Termux Install
 ```
 $ apt update && apt upgrade
 $ pkg install git
@@ -9,7 +9,7 @@ $ git clone https://github.com/LeON101-coder/Github-Information
 $ cd Github-Information
 $ python github.py
 ```
-###Linux Install
+### Linux Install
 ```
 # sudo install git
 # sudo install python
